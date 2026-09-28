@@ -1,0 +1,4 @@
+*.tmp
+
+# Speaking Matrix: bản gốc còn chữ Hàn (--ko), chỉ để dịch.
+/src/en-matrix/ko.json
